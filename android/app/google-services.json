@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "310959507549",
+    "project_id": "dine-fast",
+    "storage_bucket": "dine-fast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310959507549:android:e6e481506ff24efb8d65b4",
+        "android_client_info": {
+          "package_name": "com.meharker.smart_dine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310959507549-rtfhr7gli436jentappjtn74kmo32onp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meharker.smart_dine",
+            "certificate_hash": "b036e6401aabbb4f36d2c0c1b2247e1027e3eeff"
+          }
+        },
+        {
+          "client_id": "310959507549-j53167l8kh47vfcckuovo5q98812vue5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoAe9QIfEYeLeTMJTvZtSsvpqRFdrZlUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310959507549-j53167l8kh47vfcckuovo5q98812vue5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310959507549-esre3sf1d6bpoo8idfnh34d7g763pddq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meharker.dineFast"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

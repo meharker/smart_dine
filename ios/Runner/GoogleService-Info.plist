@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>310959507549-knqpghfu8igunfgebg25lghm09trkh1v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.310959507549-knqpghfu8igunfgebg25lghm09trkh1v</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>310959507549-9gvttq4dkurs3iasfr45i0jjqb2eoju1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPnDBIaXv3OZHAWTjJPbqUXk8bZfrb8fE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>310959507549</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.smartdine</string>
+	<key>PROJECT_ID</key>
+	<string>dine-fast</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dine-fast.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:310959507549:ios:538cc14ba421ac0c8d65b4</string>
+</dict>
+</plist>

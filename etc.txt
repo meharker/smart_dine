@@ -1,0 +1,14 @@
+this is a list of useful websites i fond :
+
+https://www.mightytechno.com/rounded-button-flutter/#:~:text=%20Create%20a%20rounded%20corner%20button%20in%20Flutter,property%20called%20side%20and%20you%20can...%20More%20?msclkid=662f2359a5fd11ec8fa6410725bb07c8
+
+https://www.raywenderlich.com/10126984-creating-reusable-custom-widgets-in-flutter?msclkid=688292b5a64811ec8787ec4f80febc72
+https://www.geeksforgeeks.org/flutter-google-sign-in-ui-and-authentication/?msclkid=17059e55a6d011ec832791d0f48911d1
+https://www.codegrepper.com/code-examples/
+https://blog.codemagic.io/firebase-authentication-google-sign-in-using-flutter/
+
+
+// this is not a file for the app just for me
+
+also thanks for freepik for some of the photos 
+this is under the MIT 
